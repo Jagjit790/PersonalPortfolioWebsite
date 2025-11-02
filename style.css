@@ -423,6 +423,7 @@ footer i:hover{
   .btn {
     width: auto;
     padding: 10px 20px;
+    font-size: 16px;
   }
 
   .about {
@@ -503,5 +504,6 @@ footer i:hover{
     font-size: 18px;
   }
 }
+
 
 
