@@ -38,6 +38,9 @@ Message: ${message}`;
    
     let whatsappURL = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
     window.open(whatsappURL, "_blank");
+
+     // Clear the form
+    document.getElementById("submit_form").reset();
 });
 
 
